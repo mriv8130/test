@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xed70BE173028592F757220fAdd33c28c7a55AD3f",
+  "SCAN_LINK": "https://polygonscan.com/token/0xed70BE173028592F757220fAdd33c28c7a55AD3f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mystery Potion Lady",
+  "SYMBOL": "MPL",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/SkepticAdventures",
+  "SHOW_BACKGROUND": true
+}
